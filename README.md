@@ -1,6 +1,5 @@
 ## 🌸 Hi! I'm Sabrina De Andrade
 
-- 🎀 Estudante apaixonada por tecnologia e desenvolvimento 
 - 🎓 Formação (em andamento):  
   - Técnica em Informática — **Instituto Federal Catarinense**  
   - Full Stack — **+Devs2Blu**  
